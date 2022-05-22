@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-22T02:49:02.834Z" agent="5.0 (Windows)" etag="81yiT9x4v-_7la__I6zm" version="18.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-22T03:00:39.890Z" agent="5.0 (Windows)" etag="JfeFoB-gu-cGv5A6v1bH" version="18.0.5" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="728" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1011" dy="581" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,26 +178,27 @@
         <mxCell id="vHE5_Gbzj4b-NchrdTDb-42" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="1155" y="1239" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="8Wv1s0RG3uUk2_1PmtQP-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.505;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;strokeColor=#FF0000;" edge="1" parent="1" source="vHE5_Gbzj4b-NchrdTDb-46" target="vHE5_Gbzj4b-NchrdTDb-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vHE5_Gbzj4b-NchrdTDb-46" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="646" y="1340" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="vHE5_Gbzj4b-NchrdTDb-47" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0" parent="1" source="vHE5_Gbzj4b-NchrdTDb-46" target="vHE5_Gbzj4b-NchrdTDb-48" edge="1">
-          <mxGeometry x="275" y="1494.8899999999999" as="geometry">
-            <mxPoint x="290" y="1564.8899999999999" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="vHE5_Gbzj4b-NchrdTDb-48" value="Memasukan&#xa;email &amp; password&#xa;pada form login" style="" parent="1" vertex="1">
           <mxGeometry x="595" y="1400" width="132" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vHE5_Gbzj4b-NchrdTDb-49" value="Menekan tombol login" style="" parent="1" vertex="1">
-          <mxGeometry x="595" y="1490" width="132" height="60" as="geometry" />
+          <mxGeometry x="599" y="1490" width="132" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vHE5_Gbzj4b-NchrdTDb-50" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="1" source="vHE5_Gbzj4b-NchrdTDb-48" target="vHE5_Gbzj4b-NchrdTDb-49" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vHE5_Gbzj4b-NchrdTDb-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#FF0000;" parent="1" source="vHE5_Gbzj4b-NchrdTDb-49" target="vHE5_Gbzj4b-NchrdTDb-60" edge="1">
+        <mxCell id="vHE5_Gbzj4b-NchrdTDb-50" value="" style="endArrow=classic;strokeColor=#FF0000;endFill=1;rounded=0" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="879.5" y="1587.445" as="sourcePoint" />
+            <mxPoint x="661" y="1460" as="sourcePoint" />
+            <mxPoint x="661" y="1492" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vHE5_Gbzj4b-NchrdTDb-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#FF0000;" parent="1" target="vHE5_Gbzj4b-NchrdTDb-60" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="1518" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vHE5_Gbzj4b-NchrdTDb-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#FF0000;" parent="1" source="vHE5_Gbzj4b-NchrdTDb-57" target="vHE5_Gbzj4b-NchrdTDb-59" edge="1">
@@ -215,19 +216,19 @@
         <mxCell id="vHE5_Gbzj4b-NchrdTDb-60" value="Validasi Data" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="780" y="1545.11" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vHE5_Gbzj4b-NchrdTDb-61" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=1.003;entryY=0.638;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="vHE5_Gbzj4b-NchrdTDb-60" target="vHE5_Gbzj4b-NchrdTDb-64" edge="1">
+        <mxCell id="vHE5_Gbzj4b-NchrdTDb-61" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=classic;endSize=8;strokeColor=#ff0000;rounded=0;entryX=1.003;entryY=0.638;entryDx=0;entryDy=0;entryPerimeter=0;endFill=1;" parent="1" source="vHE5_Gbzj4b-NchrdTDb-60" target="vHE5_Gbzj4b-NchrdTDb-64" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="560" y="1984.8899999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vHE5_Gbzj4b-NchrdTDb-62" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.004;entryY=0.547;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="vHE5_Gbzj4b-NchrdTDb-60" target="vHE5_Gbzj4b-NchrdTDb-57" edge="1">
+        <mxCell id="vHE5_Gbzj4b-NchrdTDb-62" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=classic;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.004;entryY=0.547;entryDx=0;entryDy=0;entryPerimeter=0;endFill=1;" parent="1" source="vHE5_Gbzj4b-NchrdTDb-60" target="vHE5_Gbzj4b-NchrdTDb-57" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="285" y="1989.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vHE5_Gbzj4b-NchrdTDb-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#FF0000;" parent="1" source="vHE5_Gbzj4b-NchrdTDb-64" target="vHE5_Gbzj4b-NchrdTDb-48" edge="1">
+        <mxCell id="8Wv1s0RG3uUk2_1PmtQP-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#FF0000;entryX=0.002;entryY=0.527;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vHE5_Gbzj4b-NchrdTDb-64" target="vHE5_Gbzj4b-NchrdTDb-48">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="650" y="1614.89" as="targetPoint" />
+            <mxPoint x="526.4000000000001" y="1419.6" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vHE5_Gbzj4b-NchrdTDb-64" value="&lt;span lang=&quot;EN-GB&quot;&gt;Sistem menampilkan pesan kesalahan&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=rgb(255, 255, 255);strokeColor=rgb(0, 0, 0);fontColor=rgb(0, 0, 0);" parent="1" vertex="1">
@@ -237,23 +238,26 @@
           <mxGeometry x="969.5" y="1610" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vHE5_Gbzj4b-NchrdTDb-66" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="640" y="1660" width="30" height="30" as="geometry" />
+          <mxGeometry x="642" y="1669" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vHE5_Gbzj4b-NchrdTDb-67" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0" parent="1" source="vHE5_Gbzj4b-NchrdTDb-66" target="vHE5_Gbzj4b-NchrdTDb-68" edge="1">
+        <mxCell id="vHE5_Gbzj4b-NchrdTDb-67" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=classic;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.544;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="vHE5_Gbzj4b-NchrdTDb-66" target="vHE5_Gbzj4b-NchrdTDb-68" edge="1">
           <mxGeometry x="260" y="1814.8899999999999" as="geometry">
             <mxPoint x="275" y="1884.8899999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vHE5_Gbzj4b-NchrdTDb-68" value="Pengunjung &#xa;memilih menu pemesanan" style="" parent="1" vertex="1">
-          <mxGeometry x="580" y="1720" width="154" height="70" as="geometry" />
+          <mxGeometry x="574" y="1720" width="154" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vHE5_Gbzj4b-NchrdTDb-69" value="Sistem melakukan query &#xa;data tiket ke basis data&#xa;" style="" parent="1" vertex="1">
-          <mxGeometry x="580" y="1810" width="154" height="60" as="geometry" />
+          <mxGeometry x="580" y="1822" width="154" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vHE5_Gbzj4b-NchrdTDb-70" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="1" source="vHE5_Gbzj4b-NchrdTDb-68" target="vHE5_Gbzj4b-NchrdTDb-69" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="vHE5_Gbzj4b-NchrdTDb-70" value="" style="endArrow=classic;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.511;entryY=-0.032;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.539;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="vHE5_Gbzj4b-NchrdTDb-68" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="654" y="1790" as="sourcePoint" />
+            <mxPoint x="657.694" y="1820.08" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="vHE5_Gbzj4b-NchrdTDb-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#FF0000;" parent="1" source="vHE5_Gbzj4b-NchrdTDb-69" target="vHE5_Gbzj4b-NchrdTDb-76" edge="1">
+        <mxCell id="vHE5_Gbzj4b-NchrdTDb-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.502;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#FF0000;exitPerimeter=0;" parent="1" source="vHE5_Gbzj4b-NchrdTDb-69" target="vHE5_Gbzj4b-NchrdTDb-76" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="864.5" y="1907.445" as="sourcePoint" />
           </mxGeometry>
@@ -273,12 +277,12 @@
         <mxCell id="vHE5_Gbzj4b-NchrdTDb-76" value="&lt;div&gt;Tiket&lt;/div&gt;&lt;div&gt;masih tersedia&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="761" y="1906" width="129.78" height="64.89" as="geometry" />
         </mxCell>
-        <mxCell id="vHE5_Gbzj4b-NchrdTDb-77" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=1.003;entryY=0.638;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="vHE5_Gbzj4b-NchrdTDb-76" target="vHE5_Gbzj4b-NchrdTDb-80" edge="1">
+        <mxCell id="vHE5_Gbzj4b-NchrdTDb-77" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=classic;endSize=8;strokeColor=#ff0000;rounded=0;entryX=1.003;entryY=0.638;entryDx=0;entryDy=0;entryPerimeter=0;endFill=1;" parent="1" source="vHE5_Gbzj4b-NchrdTDb-76" target="vHE5_Gbzj4b-NchrdTDb-80" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="545" y="2304.89" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vHE5_Gbzj4b-NchrdTDb-78" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.004;entryY=0.547;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="vHE5_Gbzj4b-NchrdTDb-76" target="vHE5_Gbzj4b-NchrdTDb-73" edge="1">
+        <mxCell id="vHE5_Gbzj4b-NchrdTDb-78" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=classic;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.004;entryY=0.547;entryDx=0;entryDy=0;entryPerimeter=0;endFill=1;" parent="1" source="vHE5_Gbzj4b-NchrdTDb-76" target="vHE5_Gbzj4b-NchrdTDb-73" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="270" y="2310" as="targetPoint" />
           </mxGeometry>
@@ -290,10 +294,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vHE5_Gbzj4b-NchrdTDb-80" value="&lt;span lang=&quot;EN-GB&quot;&gt;Sistem menampilkan pesan tiket telah habis&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=rgb(255, 255, 255);strokeColor=rgb(0, 0, 0);fontColor=rgb(0, 0, 0);" parent="1" vertex="1">
-          <mxGeometry x="580" y="1900" width="135" height="60" as="geometry" />
+          <mxGeometry x="585" y="1900" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vHE5_Gbzj4b-NchrdTDb-81" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="632.5" y="2019" width="30" height="30" as="geometry" />
+          <mxGeometry x="637.5" y="2019" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vHE5_Gbzj4b-NchrdTDb-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;" parent="1" source="vHE5_Gbzj4b-NchrdTDb-83" target="vHE5_Gbzj4b-NchrdTDb-85" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -316,7 +320,7 @@
         <mxCell id="vHE5_Gbzj4b-NchrdTDb-92" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="1220" y="1360" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vHE5_Gbzj4b-NchrdTDb-93" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.498;entryY=-0.036;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="vHE5_Gbzj4b-NchrdTDb-92" target="vHE5_Gbzj4b-NchrdTDb-94" edge="1">
+        <mxCell id="vHE5_Gbzj4b-NchrdTDb-93" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=classic;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.498;entryY=-0.036;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="vHE5_Gbzj4b-NchrdTDb-92" target="vHE5_Gbzj4b-NchrdTDb-94" edge="1">
           <mxGeometry x="850" y="1494.8899999999999" as="geometry">
             <mxPoint x="865" y="1564.8899999999999" as="targetPoint" />
           </mxGeometry>
@@ -333,7 +337,7 @@
         <mxCell id="vHE5_Gbzj4b-NchrdTDb-95" value="Sistem melakukan query&#xa;data tiket ke basis data&#xa;" style="" parent="1" vertex="1">
           <mxGeometry x="1166" y="1500" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vHE5_Gbzj4b-NchrdTDb-96" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.518;entryY=-0.052;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.519;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="vHE5_Gbzj4b-NchrdTDb-94" target="vHE5_Gbzj4b-NchrdTDb-95" edge="1">
+        <mxCell id="vHE5_Gbzj4b-NchrdTDb-96" value="" style="endArrow=classic;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.518;entryY=-0.052;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.519;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="vHE5_Gbzj4b-NchrdTDb-94" target="vHE5_Gbzj4b-NchrdTDb-95" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1240" y="1460" as="sourcePoint" />
           </mxGeometry>
@@ -363,12 +367,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vHE5_Gbzj4b-NchrdTDb-109" value="&lt;span lang=&quot;EN-GB&quot;&gt;Pengunjung memilih data pemesanan yang ingin dibatalkan&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=rgb(255, 255, 255);strokeColor=rgb(0, 0, 0);fontColor=rgb(0, 0, 0);" parent="1" vertex="1">
-          <mxGeometry x="1340" y="1580" width="147.5" height="60" as="geometry" />
+          <mxGeometry x="1340" y="1581" width="147.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vHE5_Gbzj4b-NchrdTDb-117" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="1220" y="1740" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vHE5_Gbzj4b-NchrdTDb-118" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.498;entryY=-0.036;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="vHE5_Gbzj4b-NchrdTDb-117" target="vHE5_Gbzj4b-NchrdTDb-119" edge="1">
+        <mxCell id="vHE5_Gbzj4b-NchrdTDb-118" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=classic;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.498;entryY=-0.036;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="vHE5_Gbzj4b-NchrdTDb-117" target="vHE5_Gbzj4b-NchrdTDb-119" edge="1">
           <mxGeometry x="850" y="1874.8899999999999" as="geometry">
             <mxPoint x="865" y="1944.8899999999999" as="targetPoint" />
           </mxGeometry>
@@ -382,7 +386,7 @@
         <mxCell id="vHE5_Gbzj4b-NchrdTDb-122" value="Sistem melakukan query&#xa;data tiket ke basis data&#xa;" style="" parent="1" vertex="1">
           <mxGeometry x="1166" y="1890" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vHE5_Gbzj4b-NchrdTDb-123" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.519;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.501;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="vHE5_Gbzj4b-NchrdTDb-122" edge="1">
+        <mxCell id="vHE5_Gbzj4b-NchrdTDb-123" value="" style="endArrow=classic;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.519;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.501;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="vHE5_Gbzj4b-NchrdTDb-122" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1236.508" y="1860.42" as="sourcePoint" />
             <mxPoint x="1238" y="1890" as="targetPoint" />
@@ -426,10 +430,10 @@
         <mxCell id="vHE5_Gbzj4b-NchrdTDb-135" value="&lt;p&gt;&lt;span lang=&quot;EN-GB&quot;&gt;Sistem menampilkan pesan tiket telah selesai dicetak&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fillColor=rgb(255, 255, 255);strokeColor=rgb(0, 0, 0);fontColor=rgb(0, 0, 0);" parent="1" vertex="1">
           <mxGeometry x="1509.75" y="1940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8Wv1s0RG3uUk2_1PmtQP-42" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=classic;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0;startArrow=none;entryX=0.487;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="8Wv1s0RG3uUk2_1PmtQP-43" source="8Wv1s0RG3uUk2_1PmtQP-63">
+        <mxCell id="8Wv1s0RG3uUk2_1PmtQP-42" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=classic;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0;startArrow=none;entryX=0.487;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="8Wv1s0RG3uUk2_1PmtQP-43">
           <mxGeometry x="249" y="2484.89" as="geometry">
             <mxPoint x="264" y="2554.89" as="targetPoint" />
-            <mxPoint x="644" y="2360" as="sourcePoint" />
+            <mxPoint x="624" y="2360" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8Wv1s0RG3uUk2_1PmtQP-43" value="Admin memilih &#xa;menu daftar tiket" style="" vertex="1" parent="1">
@@ -506,9 +510,6 @@
         </mxCell>
         <mxCell id="8Wv1s0RG3uUk2_1PmtQP-62" value="&lt;p&gt;&lt;span lang=&quot;EN-GB&quot;&gt;Sistem menampilkan data terbaru di daftar tiket&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fillColor=rgb(255, 255, 255);strokeColor=rgb(0, 0, 0);fontColor=rgb(0, 0, 0);" vertex="1" parent="1">
           <mxGeometry x="809.5" y="2900" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="8Wv1s0RG3uUk2_1PmtQP-63" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="609" y="2330" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Wv1s0RG3uUk2_1PmtQP-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;entryX=-0.01;entryY=0.483;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8Wv1s0RG3uUk2_1PmtQP-65" target="8Wv1s0RG3uUk2_1PmtQP-68">
           <mxGeometry relative="1" as="geometry" />
@@ -664,6 +665,9 @@
         </mxCell>
         <mxCell id="8Wv1s0RG3uUk2_1PmtQP-121" value="&lt;p&gt;&lt;span lang=&quot;EN-GB&quot;&gt;Sistem menampilkan pesan laporan telah selesai dicetak&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fillColor=rgb(255, 255, 255);strokeColor=rgb(0, 0, 0);fontColor=rgb(0, 0, 0);" vertex="1" parent="1">
           <mxGeometry x="2063.75" y="1935" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Wv1s0RG3uUk2_1PmtQP-129" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="609" y="2334" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
