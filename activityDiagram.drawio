@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-22T02:37:14.548Z" agent="5.0 (Windows)" etag="-sbuScBKArz0rLw5KWwk" version="18.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-22T02:45:13.217Z" agent="5.0 (Windows)" etag="4GScpy-YY00cyl-eiLI0" version="18.0.5" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="827" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="958" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -599,6 +599,67 @@
         </mxCell>
         <mxCell id="8Wv1s0RG3uUk2_1PmtQP-104" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1365" y="2530" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8Wv1s0RG3uUk2_1PmtQP-105" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="1768.5" y="1750" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Wv1s0RG3uUk2_1PmtQP-106" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=classic;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.498;entryY=-0.036;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8Wv1s0RG3uUk2_1PmtQP-105" target="8Wv1s0RG3uUk2_1PmtQP-107">
+          <mxGeometry x="1404" y="1869.8899999999999" as="geometry">
+            <mxPoint x="1419" y="1939.8899999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Wv1s0RG3uUk2_1PmtQP-107" value="Admin memilih menu &#xa;laporan penjualan" style="" vertex="1" parent="1">
+          <mxGeometry x="1723" y="1800" width="121" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="8Wv1s0RG3uUk2_1PmtQP-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#FF0000;exitX=0.497;exitY=1.009;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8Wv1s0RG3uUk2_1PmtQP-109">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1783.5" y="1960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Wv1s0RG3uUk2_1PmtQP-109" value="Sistem melakukan query&#xa;data penjualan tiket &#xa;ke basis data&#xa;" style="" vertex="1" parent="1">
+          <mxGeometry x="1706.5" y="1885" width="154" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="8Wv1s0RG3uUk2_1PmtQP-110" value="" style="endArrow=classic;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.508;exitY=0.988;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.501;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="8Wv1s0RG3uUk2_1PmtQP-109" source="8Wv1s0RG3uUk2_1PmtQP-107">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1790.5079999999998" y="1855.42" as="sourcePoint" />
+            <mxPoint x="1792" y="1885" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Wv1s0RG3uUk2_1PmtQP-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#FF0000;entryX=0.492;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8Wv1s0RG3uUk2_1PmtQP-114" target="8Wv1s0RG3uUk2_1PmtQP-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Wv1s0RG3uUk2_1PmtQP-114" value="&lt;span lang=&quot;EN-GB&quot;&gt;Sistem mengakses printer untuk mencetak laporan&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=rgb(255, 255, 255);strokeColor=rgb(0, 0, 0);fontColor=rgb(0, 0, 0);" vertex="1" parent="1">
+          <mxGeometry x="2048.5" y="1855" width="150.5" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="8Wv1s0RG3uUk2_1PmtQP-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;" edge="1" parent="1" source="8Wv1s0RG3uUk2_1PmtQP-116">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1900" y="1990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Wv1s0RG3uUk2_1PmtQP-116" value="&lt;p&gt;&lt;span lang=&quot;EN-GB&quot;&gt;Sistem menampilkan data penjualan tiket&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fillColor=rgb(255, 255, 255);strokeColor=rgb(0, 0, 0);fontColor=rgb(0, 0, 0);" vertex="1" parent="1">
+          <mxGeometry x="1723" y="1961" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Wv1s0RG3uUk2_1PmtQP-117" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="2108.75" y="2014" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Wv1s0RG3uUk2_1PmtQP-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.461;entryY=-0.016;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;strokeColor=#FF0000;" edge="1" parent="1" source="8Wv1s0RG3uUk2_1PmtQP-119" target="8Wv1s0RG3uUk2_1PmtQP-114">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1974" y="1830" />
+              <mxPoint x="2117" y="1830" />
+              <mxPoint x="2117" y="1854" />
+            </Array>
+            <mxPoint x="2116.5845000000004" y="1765" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Wv1s0RG3uUk2_1PmtQP-119" value="&lt;span lang=&quot;EN-GB&quot;&gt;Admin menekan tombol cetak laporan&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=rgb(255, 255, 255);strokeColor=rgb(0, 0, 0);fontColor=rgb(0, 0, 0);" vertex="1" parent="1">
+          <mxGeometry x="1901" y="1961" width="147.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Wv1s0RG3uUk2_1PmtQP-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;" edge="1" parent="1" source="8Wv1s0RG3uUk2_1PmtQP-121" target="8Wv1s0RG3uUk2_1PmtQP-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Wv1s0RG3uUk2_1PmtQP-121" value="&lt;p&gt;&lt;span lang=&quot;EN-GB&quot;&gt;Sistem menampilkan pesan laporan telah selesai dicetak&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fillColor=rgb(255, 255, 255);strokeColor=rgb(0, 0, 0);fontColor=rgb(0, 0, 0);" vertex="1" parent="1">
+          <mxGeometry x="2063.75" y="1935" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
