@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T08:09:48.274Z" agent="5.0 (Windows)" etag="i-rGxqrTd9PECBYyIE-K" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-13T08:12:27.752Z" agent="5.0 (Windows)" etag="QPekRuTDK-gaNc4-kmFj" version="18.1.1" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="827" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="791" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="45" y="70" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value=":UI Aplikasi" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="321" y="80" width="100" height="300" as="geometry" />
+          <mxGeometry x="321" y="80" width="100" height="430" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="50" as="geometry" />
@@ -101,8 +101,13 @@
         <mxCell id="LG617nG7bpmIxUYU5paF-20" value="7. tampilkan pesan kesalahan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="255" y="360" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LG617nG7bpmIxUYU5paF-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.846;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LG617nG7bpmIxUYU5paF-21" target="LG617nG7bpmIxUYU5paF-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="LG617nG7bpmIxUYU5paF-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LG617nG7bpmIxUYU5paF-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="177" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="177" y="500" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="LG617nG7bpmIxUYU5paF-21" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="430" width="10" height="80" as="geometry" />
@@ -122,7 +127,7 @@
           <mxGeometry x="570" y="390" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LG617nG7bpmIxUYU5paF-26" value="9.. tampil pesan berhasil registrasi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="255" y="440" width="200" height="20" as="geometry" />
+          <mxGeometry x="240" y="480" width="200" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
