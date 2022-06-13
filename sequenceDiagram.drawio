@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T08:36:13.671Z" agent="5.0 (Windows)" etag="w5A8y2LBCkC_IE_tYBpC" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-13T08:40:22.571Z" agent="5.0 (Windows)" etag="hI2YvlgZAc0uvf1J5NPz" version="18.1.1" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="867" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1071" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -266,7 +266,7 @@
           <mxGeometry x="46" y="190" width="10" height="260" as="geometry" />
         </mxCell>
         <mxCell id="LG617nG7bpmIxUYU5paF-58" value=":UI Aplikasi" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="321" y="650" width="100" height="430" as="geometry" />
+          <mxGeometry x="321" y="650" width="100" height="450" as="geometry" />
         </mxCell>
         <mxCell id="LG617nG7bpmIxUYU5paF-59" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="LG617nG7bpmIxUYU5paF-58">
           <mxGeometry x="45" y="80" width="10" height="40" as="geometry" />
@@ -342,6 +342,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="LG617nG7bpmIxUYU5paF-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="LG617nG7bpmIxUYU5paF-91" target="LG617nG7bpmIxUYU5paF-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LG617nG7bpmIxUYU5paF-91" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="532.99" y="890" width="10" height="90" as="geometry" />
         </mxCell>
@@ -356,7 +359,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LG617nG7bpmIxUYU5paF-98" value="6. Pilih tiket" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="LG617nG7bpmIxUYU5paF-98" value="6. pilih tiket" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="920" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LG617nG7bpmIxUYU5paF-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.501;entryY=0.889;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="LG617nG7bpmIxUYU5paF-93" target="LG617nG7bpmIxUYU5paF-91">
@@ -369,6 +372,31 @@
         </mxCell>
         <mxCell id="LG617nG7bpmIxUYU5paF-100" value="7. simpan data pemesanan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="374.99" y="950" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LG617nG7bpmIxUYU5paF-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="LG617nG7bpmIxUYU5paF-101" target="LG617nG7bpmIxUYU5paF-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="1040" />
+              <mxPoint x="260" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LG617nG7bpmIxUYU5paF-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.359;entryY=0.902;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="LG617nG7bpmIxUYU5paF-101" target="LG617nG7bpmIxUYU5paF-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="1075" />
+              <mxPoint x="440" y="1075" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LG617nG7bpmIxUYU5paF-101" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="532.99" y="1030" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LG617nG7bpmIxUYU5paF-104" value="8. tampil rincian pemesanan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" y="1020" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LG617nG7bpmIxUYU5paF-106" value="9. kirm kode unik" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" y="1050" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
