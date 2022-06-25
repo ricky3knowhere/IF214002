@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-25T15:45:05.595Z" agent="5.0 (Windows)" etag="LCSN_MDHUCsGpqVKcRxU" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-25T15:54:06.339Z" agent="5.0 (Windows)" etag="_UzVGAia7SFE1k3evJ_Q" version="20.0.1" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1073" dy="615" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -257,58 +257,6 @@
         </mxCell>
         <mxCell id="vHE5_Gbzj4b-NchrdTDb-87" value="&lt;p&gt;&lt;span lang=&quot;EN-GB&quot;&gt;&lt;span&gt;Sistem &lt;/span&gt;&lt;/span&gt;&lt;span lang=&quot;EN-GB&quot;&gt;mengirimkan kode unik ke pengunjung untuk memproses pembayaran&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fillColor=rgb(255, 255, 255);strokeColor=rgb(0, 0, 0);fontColor=rgb(0, 0, 0);" parent="1" vertex="1">
           <mxGeometry x="761" y="2010" width="141" height="70.5" as="geometry" />
-        </mxCell>
-        <mxCell id="vHE5_Gbzj4b-NchrdTDb-92" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="1360" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="vHE5_Gbzj4b-NchrdTDb-93" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=classic;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.498;entryY=-0.036;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="vHE5_Gbzj4b-NchrdTDb-92" target="vHE5_Gbzj4b-NchrdTDb-94" edge="1">
-          <mxGeometry x="850" y="1494.8899999999999" as="geometry">
-            <mxPoint x="865" y="1564.8899999999999" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vHE5_Gbzj4b-NchrdTDb-94" value="Pengunjung memilih&#xa;menu pembatalan tiket&#xa;" style="" parent="1" vertex="1">
-          <mxGeometry x="1169" y="1420" width="132" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vHE5_Gbzj4b-NchrdTDb-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;strokeColor=#FF0000;" parent="1" source="vHE5_Gbzj4b-NchrdTDb-95" target="vHE5_Gbzj4b-NchrdTDb-106" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vHE5_Gbzj4b-NchrdTDb-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#FF0000;" parent="1" source="vHE5_Gbzj4b-NchrdTDb-95" target="vHE5_Gbzj4b-NchrdTDb-106" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vHE5_Gbzj4b-NchrdTDb-95" value="Sistem melakukan query&#xa;data tiket ke basis data&#xa;" style="" parent="1" vertex="1">
-          <mxGeometry x="1166" y="1500" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="vHE5_Gbzj4b-NchrdTDb-96" value="" style="endArrow=classic;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.518;entryY=-0.052;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.519;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="vHE5_Gbzj4b-NchrdTDb-94" target="vHE5_Gbzj4b-NchrdTDb-95" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1240" y="1460" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vHE5_Gbzj4b-NchrdTDb-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#FF0000;" parent="1" source="vHE5_Gbzj4b-NchrdTDb-99" target="vHE5_Gbzj4b-NchrdTDb-101" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vHE5_Gbzj4b-NchrdTDb-99" value="&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span lang=&quot;EN-GB&quot;&gt;Sistem melakukan update data pemesanan ke basis data&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fillColor=rgb(255, 255, 255);strokeColor=rgb(0, 0, 0);fontColor=rgb(0, 0, 0);" parent="1" vertex="1">
-          <mxGeometry x="1499.5" y="1400" width="140.5" height="64.11" as="geometry" />
-        </mxCell>
-        <mxCell id="vHE5_Gbzj4b-NchrdTDb-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#FF0000;" parent="1" source="vHE5_Gbzj4b-NchrdTDb-101" target="vHE5_Gbzj4b-NchrdTDb-107" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vHE5_Gbzj4b-NchrdTDb-101" value="&lt;span lang=&quot;EN-GB&quot;&gt;Sistem menampilkan pesan berhasil melakukan pembatalan &lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=rgb(255, 255, 255);strokeColor=rgb(0, 0, 0);fontColor=rgb(0, 0, 0);" parent="1" vertex="1">
-          <mxGeometry x="1499.5" y="1521" width="140.5" height="59" as="geometry" />
-        </mxCell>
-        <mxCell id="vHE5_Gbzj4b-NchrdTDb-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;" parent="1" source="vHE5_Gbzj4b-NchrdTDb-106" target="vHE5_Gbzj4b-NchrdTDb-109" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vHE5_Gbzj4b-NchrdTDb-106" value="&lt;p&gt;&lt;span lang=&quot;EN-GB&quot;&gt;Sistem menampilkan data pemesanan &lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fillColor=rgb(255, 255, 255);strokeColor=rgb(0, 0, 0);fontColor=rgb(0, 0, 0);" parent="1" vertex="1">
-          <mxGeometry x="1169" y="1581" width="135" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vHE5_Gbzj4b-NchrdTDb-107" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="1554.75" y="1610" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="vHE5_Gbzj4b-NchrdTDb-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="vHE5_Gbzj4b-NchrdTDb-109" target="vHE5_Gbzj4b-NchrdTDb-99" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vHE5_Gbzj4b-NchrdTDb-109" value="&lt;span lang=&quot;EN-GB&quot;&gt;Pengunjung memilih data pemesanan yang ingin dibatalkan&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=rgb(255, 255, 255);strokeColor=rgb(0, 0, 0);fontColor=rgb(0, 0, 0);" parent="1" vertex="1">
-          <mxGeometry x="1340" y="1581" width="147.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vHE5_Gbzj4b-NchrdTDb-117" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="1220" y="1740" width="30" height="30" as="geometry" />
@@ -705,6 +653,86 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vHE5_Gbzj4b-NchrdTDb-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#FF0000;" parent="8zhCRBEXfcVp4ZQs6Kn2-73" source="vHE5_Gbzj4b-NchrdTDb-59" target="vHE5_Gbzj4b-NchrdTDb-65" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8zhCRBEXfcVp4ZQs6Kn2-98" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2175" y="519" width="400" height="576.1099999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="8zhCRBEXfcVp4ZQs6Kn2-99" value="Pengunjung" style="swimlane;startSize=23;" vertex="1" parent="8zhCRBEXfcVp4ZQs6Kn2-98">
+          <mxGeometry width="200" height="576" as="geometry" />
+        </mxCell>
+        <mxCell id="8zhCRBEXfcVp4ZQs6Kn2-100" value="Sistem" style="swimlane;startSize=23;" vertex="1" parent="8zhCRBEXfcVp4ZQs6Kn2-98">
+          <mxGeometry x="200" width="200" height="576.1099999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="8zhCRBEXfcVp4ZQs6Kn2-97" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1600" y="651" width="495" height="576.1099999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="8zhCRBEXfcVp4ZQs6Kn2-86" value="Pengunjung" style="swimlane;startSize=23;" vertex="1" parent="8zhCRBEXfcVp4ZQs6Kn2-97">
+          <mxGeometry width="200" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="vHE5_Gbzj4b-NchrdTDb-109" value="&lt;span lang=&quot;EN-GB&quot;&gt;Pengunjung memilih data pemesanan yang ingin dibatalkan&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=rgb(255, 255, 255);strokeColor=rgb(0, 0, 0);fontColor=rgb(0, 0, 0);" parent="8zhCRBEXfcVp4ZQs6Kn2-86" vertex="1">
+          <mxGeometry x="21" y="294" width="147.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8zhCRBEXfcVp4ZQs6Kn2-87" value="Sistem" style="swimlane;startSize=23;" vertex="1" parent="8zhCRBEXfcVp4ZQs6Kn2-97">
+          <mxGeometry x="200" width="249" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="8zhCRBEXfcVp4ZQs6Kn2-90" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=classic;endSize=8;strokeColor=#ff0000;rounded=0;entryX=1.003;entryY=0.638;entryDx=0;entryDy=0;entryPerimeter=0;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="8zhCRBEXfcVp4ZQs6Kn2-87" target="8zhCRBEXfcVp4ZQs6Kn2-89">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="-204" y="686.7799999999997" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="184" y="219" />
+              <mxPoint x="184" y="140" />
+            </Array>
+            <mxPoint x="153.5" y="219" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vHE5_Gbzj4b-NchrdTDb-92" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="8zhCRBEXfcVp4ZQs6Kn2-87" vertex="1">
+          <mxGeometry x="-125" y="54" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vHE5_Gbzj4b-NchrdTDb-93" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=classic;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.498;entryY=-0.036;entryDx=0;entryDy=0;entryPerimeter=0;" parent="8zhCRBEXfcVp4ZQs6Kn2-87" source="vHE5_Gbzj4b-NchrdTDb-92" target="vHE5_Gbzj4b-NchrdTDb-94" edge="1">
+          <mxGeometry x="-495" y="188.88999999999987" as="geometry">
+            <mxPoint x="-480" y="258.8899999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vHE5_Gbzj4b-NchrdTDb-94" value="Pengunjung memilih&#xa;menu pembatalan tiket&#xa;" style="" parent="8zhCRBEXfcVp4ZQs6Kn2-87" vertex="1">
+          <mxGeometry x="-176" y="114" width="132" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vHE5_Gbzj4b-NchrdTDb-95" value="Sistem melakukan query&#xa;data tiket ke basis data&#xa;" style="" parent="8zhCRBEXfcVp4ZQs6Kn2-87" vertex="1">
+          <mxGeometry x="71" y="102" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vHE5_Gbzj4b-NchrdTDb-96" value="" style="endArrow=classic;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="8zhCRBEXfcVp4ZQs6Kn2-87" source="vHE5_Gbzj4b-NchrdTDb-94" target="vHE5_Gbzj4b-NchrdTDb-95" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-105" y="154" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vHE5_Gbzj4b-NchrdTDb-99" value="&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span lang=&quot;EN-GB&quot;&gt;Sistem melakukan update data pemesanan ke basis data&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fillColor=rgb(255, 255, 255);strokeColor=rgb(0, 0, 0);fontColor=rgb(0, 0, 0);" parent="8zhCRBEXfcVp4ZQs6Kn2-87" vertex="1">
+          <mxGeometry x="73.5" y="292" width="140.5" height="64.11" as="geometry" />
+        </mxCell>
+        <mxCell id="vHE5_Gbzj4b-NchrdTDb-101" value="&lt;span lang=&quot;EN-GB&quot;&gt;Sistem menampilkan pesan berhasil melakukan pembatalan &lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=rgb(255, 255, 255);strokeColor=rgb(0, 0, 0);fontColor=rgb(0, 0, 0);" parent="8zhCRBEXfcVp4ZQs6Kn2-87" vertex="1">
+          <mxGeometry x="73.5" y="392" width="140.5" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="vHE5_Gbzj4b-NchrdTDb-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#FF0000;" parent="8zhCRBEXfcVp4ZQs6Kn2-87" source="vHE5_Gbzj4b-NchrdTDb-99" target="vHE5_Gbzj4b-NchrdTDb-101" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vHE5_Gbzj4b-NchrdTDb-107" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="8zhCRBEXfcVp4ZQs6Kn2-87" vertex="1">
+          <mxGeometry x="128.75" y="493" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vHE5_Gbzj4b-NchrdTDb-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#FF0000;" parent="8zhCRBEXfcVp4ZQs6Kn2-87" source="vHE5_Gbzj4b-NchrdTDb-101" target="vHE5_Gbzj4b-NchrdTDb-107" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vHE5_Gbzj4b-NchrdTDb-106" value="&lt;p&gt;&lt;span lang=&quot;EN-GB&quot;&gt;Sistem menampilkan data pemesanan &lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fillColor=rgb(255, 255, 255);strokeColor=rgb(0, 0, 0);fontColor=rgb(0, 0, 0);" parent="8zhCRBEXfcVp4ZQs6Kn2-87" vertex="1">
+          <mxGeometry x="73.5" y="185" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vHE5_Gbzj4b-NchrdTDb-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;strokeColor=#FF0000;" parent="8zhCRBEXfcVp4ZQs6Kn2-87" source="vHE5_Gbzj4b-NchrdTDb-95" target="vHE5_Gbzj4b-NchrdTDb-106" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vHE5_Gbzj4b-NchrdTDb-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#FF0000;" parent="8zhCRBEXfcVp4ZQs6Kn2-87" source="vHE5_Gbzj4b-NchrdTDb-95" target="vHE5_Gbzj4b-NchrdTDb-106" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vHE5_Gbzj4b-NchrdTDb-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="8zhCRBEXfcVp4ZQs6Kn2-97" source="vHE5_Gbzj4b-NchrdTDb-109" target="vHE5_Gbzj4b-NchrdTDb-99" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vHE5_Gbzj4b-NchrdTDb-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;" parent="8zhCRBEXfcVp4ZQs6Kn2-97" source="vHE5_Gbzj4b-NchrdTDb-106" target="vHE5_Gbzj4b-NchrdTDb-109" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
