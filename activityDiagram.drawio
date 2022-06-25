@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-25T16:50:27.261Z" agent="5.0 (Windows)" etag="eqNlUuqvEnWEu786HQib" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-25T17:19:28.259Z" agent="5.0 (Windows)" etag="POwy_bKPqEdtpUYw40dT" version="20.0.1" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1658" dy="951" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1216" dy="697" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -652,6 +652,11 @@
         </mxCell>
         <mxCell id="vHE5_Gbzj4b-NchrdTDb-119" value="Pengunjung memilih &#xa;menu cetak tiket" style="" parent="8zhCRBEXfcVp4ZQs6Kn2-111" vertex="1">
           <mxGeometry x="28" y="107" width="132" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8zhCRBEXfcVp4ZQs6Kn2-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#FF0000;" edge="1" parent="8zhCRBEXfcVp4ZQs6Kn2-111" target="vHE5_Gbzj4b-NchrdTDb-129">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="309" y="155" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vHE5_Gbzj4b-NchrdTDb-122" value="Sistem melakukan query&#xa;data tiket ke basis data&#xa;" style="" parent="8zhCRBEXfcVp4ZQs6Kn2-111" vertex="1">
           <mxGeometry x="238" y="107" width="140" height="50" as="geometry" />
