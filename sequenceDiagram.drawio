@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-25T17:02:03.357Z" agent="5.0 (Windows)" etag="_76yb1HAPf4R0ZlUSnk2" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-25T17:19:37.821Z" agent="5.0 (Windows)" etag="7a4FPH699imjJGd7iUFa" version="20.0.1" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1517" dy="872" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1011" dy="581" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -916,7 +916,7 @@
         <mxCell id="i344GwnPmk2lQPnbqwlJ-15" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;" vertex="1" parent="i344GwnPmk2lQPnbqwlJ-14">
           <mxGeometry width="155" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="i344GwnPmk2lQPnbqwlJ-16" value="Pengunjung" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;" vertex="1" parent="i344GwnPmk2lQPnbqwlJ-14">
+        <mxCell id="i344GwnPmk2lQPnbqwlJ-16" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;" vertex="1" parent="i344GwnPmk2lQPnbqwlJ-14">
           <mxGeometry x="53.5" y="43" width="25" height="48" as="geometry" />
         </mxCell>
         <mxCell id="i344GwnPmk2lQPnbqwlJ-17" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -925,8 +925,11 @@
         <mxCell id="i344GwnPmk2lQPnbqwlJ-18" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;" vertex="1" parent="i344GwnPmk2lQPnbqwlJ-17">
           <mxGeometry width="155" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="i344GwnPmk2lQPnbqwlJ-19" value="Pengunjung" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;" vertex="1" parent="i344GwnPmk2lQPnbqwlJ-17">
+        <mxCell id="i344GwnPmk2lQPnbqwlJ-19" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;" vertex="1" parent="i344GwnPmk2lQPnbqwlJ-17">
           <mxGeometry x="53.5" y="43" width="25" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="i344GwnPmk2lQPnbqwlJ-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i344GwnPmk2lQPnbqwlJ-16" target="LG617nG7bpmIxUYU5paF-182">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
